@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 検索エンジン向けのページ一覧。1ページ完結サイトなのでトップのみ -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://kvell-dental-lab.github.io/</loc>
+    <lastmod>2026-08-10</lastmod>
+  </url>
+</urlset>

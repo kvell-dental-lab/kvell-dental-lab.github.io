@@ -1,0 +1,4 @@
+# 検索エンジンのクローラーへの案内。全ページ巡回OKで、サイトマップの場所を教える
+User-agent: *
+Allow: /
+Sitemap: https://kvell-dental-lab.github.io/sitemap.xml
